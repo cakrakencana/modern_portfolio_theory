@@ -135,7 +135,7 @@ seaborn
 **Cakraningrat Kencana Murti**  
 Project Specialist | Banking & Finance | Data Science Enthusiast  
 
-🔗 [GitHub](https://github.com/cakrakencana)  
+## 🔗 [GitHub](https://github.com/cakrakencana)  
 📧 cakra.kencana.km@gmail.com
 ---
 
