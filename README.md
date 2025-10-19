@@ -136,8 +136,7 @@ seaborn
 Project Specialist | Banking & Finance | Data Science Enthusiast  
 
 🔗 [GitHub](https://github.com/cakrakencana)  
-📧 cakra.kencana.km@gmail.com (replace with your real contact)
-
+📧 cakra.kencana.km@gmail.com
 ---
 
 ## 📚 References
